@@ -1,0 +1,7 @@
+3.0.0
+First released version
+- TouchGFX 4.25.0
+- STM32CubeMX 6.15.0
+- Firmware FW_N6 V1.2.0
+- Support for STM32CubeIDE
+- Support for EWARM
