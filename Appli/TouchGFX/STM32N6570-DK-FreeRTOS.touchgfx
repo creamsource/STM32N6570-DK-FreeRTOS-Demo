@@ -15,12 +15,78 @@
             "Type": "Button",
             "Name": "button1",
             "X": 280,
-            "Y": 215,
+            "Y": 136,
             "Width": 240,
             "Height": 50,
             "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_50_medium_round_pressed.png",
             "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_50_medium_round_action.png",
             "Preset": "alternate_theme\\presets\\button\\regular\\height_50\\medium_round_action.json"
+          },
+          {
+            "Type": "Button",
+            "Name": "button2",
+            "X": 11,
+            "Y": 433,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_rounded_inactive.json"
+          },
+          {
+            "Type": "Button",
+            "Name": "button2_1",
+            "X": 136,
+            "Y": 433,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_rounded_inactive.json"
+          },
+          {
+            "Type": "Button",
+            "Name": "button2_2",
+            "X": 268,
+            "Y": 433,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_rounded_inactive.json"
+          },
+          {
+            "Type": "Button",
+            "Name": "button2_3",
+            "X": 400,
+            "Y": 433,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_rounded_inactive.json"
+          },
+          {
+            "Type": "Button",
+            "Name": "button2_4",
+            "X": 546,
+            "Y": 433,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_rounded_inactive.json"
+          },
+          {
+            "Type": "Button",
+            "Name": "button2_5",
+            "X": 688,
+            "Y": 433,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_inactive.png",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_36\\tiny_rounded_inactive.json"
           }
         ],
         "Interactions": []
